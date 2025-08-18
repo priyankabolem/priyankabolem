@@ -35,7 +35,7 @@
   CNN classifier in TensorFlow for **real-time leaf disease detection** with Streamlit UI.  
 
 - **[Lending Club Loan Approval](https://github.com/priyankabolem/lendingclub-loan-approval-ml)**  
-  End-to-end ML pipeline with **XGBoost, SMOTE, and SHAP explainability**.  
+  End-to-end ML pipeline with **XGBoost, SMOTE explainability**.  
 
 ---
 
