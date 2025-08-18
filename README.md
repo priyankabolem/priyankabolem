@@ -42,6 +42,6 @@
 ### 🌐 Connect With Me  
 
 - 🌍 Portfolio: [priyankabolem.github.io](https://priyankabolem.github.io)  
-- 💼 LinkedIn: [linkedin.com/in/priyanka-bolem-66763041](https://www.linkedin.com/in/priyanka-bolem)  
+- 💼 LinkedIn: [linkedin.com/in/priyanka-bolem](https://www.linkedin.com/in/priyanka-bolem)  
 
 ---
