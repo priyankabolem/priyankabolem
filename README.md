@@ -5,7 +5,7 @@ Production ML over high-volume, real-time data: predictive and probabilistic mod
 
 **Currently:** open to ML Engineer / Applied Scientist / MLOps roles in Seattle or Remote US, open to relocation.
 
-**Portfolio:** [priyankabolem.github.io](https://priyankabolem.github.io) · **Resume:** [PDF](https://priyankabolem.github.io/resume.pdf)
+**Portfolio:** [priyankabolem.github.io](https://priyankabolem.github.io) · **Resume:** [Download](https://priyankabolem.github.io/resume.pdf)
 
 ---
 
@@ -42,7 +42,7 @@ Also: AI Copilot for Medical Research / Clinical Trials: GenAI prototype (notebo
 
 ## Contact
 
-- Email: [priyankabolem@gmail.com](mailto:priyankabolem@gmail.com)
+- Email: [priyankabolem93@gmail.com](mailto:priyankabolem93@gmail.com)
 - LinkedIn: [linkedin.com/in/priyanka-bolem](https://www.linkedin.com/in/priyanka-bolem)
 - Hugging Face: [huggingface.co/Priyabolem](https://huggingface.co/Priyabolem)
 - Website: [priyankabolem.github.io](https://priyankabolem.github.io)
