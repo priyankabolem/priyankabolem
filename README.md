@@ -1,9 +1,9 @@
-# Priyanka Bolem — Machine Learning Engineer
+# Priyanka Bolem: Machine Learning Engineer
 
-Production ML over high-volume, real-time data: predictive and probabilistic modeling, uncertainty estimation, large-scale feature engineering, and the MLOps to keep it running — low-latency inference on AWS SageMaker, distributed pipelines (Spark, Databricks, Airflow), and drift/decay monitoring in production.
+Production ML over high-volume, real-time data: predictive and probabilistic modeling, uncertainty estimation, large-scale feature engineering, and the MLOps to keep it running: low-latency inference on AWS SageMaker, distributed pipelines (Spark, Databricks, Airflow), and drift/decay monitoring in production.
 4+ years shipping models in healthcare (Truveta) and banking (Capgemini). MS Computer Science, Northwest Missouri State University (May 2025).
 
-**Currently:** open to ML Engineer / Applied Scientist / MLOps roles — Seattle, Remote US, open to relocation.
+**Currently:** open to ML Engineer / Applied Scientist / MLOps roles in Seattle or Remote US, open to relocation.
 
 **Portfolio:** [priyankabolem.github.io](https://priyankabolem.github.io) · **Resume:** [PDF](https://priyankabolem.github.io/resume.pdf)
 
@@ -14,18 +14,18 @@ Production ML over high-volume, real-time data: predictive and probabilistic mod
 | Project | What it is | Stack | Links |
 |---|---|---|---|
 | **Financial Sentiment MLOps Platform** | End-to-end sentiment platform for financial text: FinBERT fine-tune, multi-source ingestion (News API / Alpha Vantage / Reddit), DVC-versioned training, MLflow registry, containerized FastAPI service, K8s HPA manifests, Prometheus/Grafana + Evidently drift monitoring, GitHub Actions CI/CD with pytest. | FinBERT · Transformers · DVC · MLflow · FastAPI · Docker · Kubernetes · Prometheus · Grafana · Evidently · GitHub Actions | [Repo](https://github.com/priyankabolem/financial-sentiment-mlops) · [Live demo](https://huggingface.co/spaces/Priyabolem/financial-sentiment-analysis) |
-| **Credit Card Fraud Detection — Production MLOps** *(in active development)* | Fraud scoring on 284,807 transactions / 0.17% fraud, AUPRC-driven evaluation, XGBoost, MLflow registry, Airflow retraining, Evidently drift, FastAPI on AWS ECR → ECS Fargate with S3 + CloudWatch, Claude-API RAG explainability layer, uv + pyproject. | XGBoost · MLflow · Airflow · Evidently · FastAPI · AWS ECS Fargate · S3 · CloudWatch · RAG | [Repo](https://github.com/priyankabolem/fraud-detection-mlops) |
-| **NWMSU RAG Chatbot** | Hybrid retrieval (Neo4j knowledge graph + OpenAI embeddings) over university information, orchestrated with LangChain, served in Streamlit. | Neo4j · OpenAI embeddings · LangChain · Streamlit | [Repo](https://github.com/priyankabolem/RAG-Chatbot-1) · [Live demo](https://nwmsu-rag-chatbot.streamlit.app) (free tier — may be asleep) |
-| **Plant Disease Detection** *(demo weights — architecture showcase)* | Custom TensorFlow/Keras CNN, 38 classes across 14 species, Grad-CAM explanations, Docker + CI. Weights are demo-grade pending a full training run (see MODEL_STATUS in repo). | TensorFlow · Keras · Grad-CAM · Docker · CI | [Repo](https://github.com/priyankabolem/PlantDiseasesDetection) · [Live demo](https://huggingface.co/spaces/Priyabolem/plant-disease-detection) |
+| **Credit Card Fraud Detection: Production MLOps** *(in active development)* | Fraud scoring on 284,807 transactions / 0.17% fraud, AUPRC-driven evaluation, XGBoost, MLflow registry, Airflow retraining, Evidently drift, FastAPI on AWS ECR → ECS Fargate with S3 + CloudWatch, Claude-API RAG explainability layer, uv + pyproject. | XGBoost · MLflow · Airflow · Evidently · FastAPI · AWS ECS Fargate · S3 · CloudWatch · RAG | [Repo](https://github.com/priyankabolem/fraud-detection-mlops) |
+| **NWMSU RAG Chatbot** | Hybrid retrieval (Neo4j knowledge graph + OpenAI embeddings) over university information, orchestrated with LangChain, served in Streamlit. | Neo4j · OpenAI embeddings · LangChain · Streamlit | [Repo](https://github.com/priyankabolem/RAG-Chatbot-1) · [Live demo](https://nwmsu-rag-chatbot.streamlit.app) (free tier, may be asleep) |
+| **Plant Disease Detection** *(demo weights, architecture showcase)* | Custom TensorFlow/Keras CNN, 38 classes across 14 species, Grad-CAM explanations, Docker + CI. Weights are demo-grade pending a full training run (see MODEL_STATUS in repo). | TensorFlow · Keras · Grad-CAM · Docker · CI | [Repo](https://github.com/priyankabolem/PlantDiseasesDetection) · [Live demo](https://huggingface.co/spaces/Priyabolem/plant-disease-detection) |
 | **Lending Club Loan Default Prediction** | ~38k loans; Logistic Regression / Decision Tree / Random Forest / XGBoost; ~84% accuracy, ROC-AUC > 0.85; class-imbalance handling and threshold tuning. | Scikit-learn · XGBoost · Pandas | [Repo](https://github.com/priyankabolem/lendingclub-loan-approval-ml) |
 | **NutriGuide+** | AI nutrition assistant: TensorFlow food-image classification plus nutrition insights, Streamlit UI. | TensorFlow · Streamlit | [Repo](https://github.com/priyankabolem/NutriGuide-Plus) |
 
-Also: AI Copilot for Medical Research / Clinical Trials — GenAI prototype (notebook).
+Also: AI Copilot for Medical Research / Clinical Trials: GenAI prototype (notebook).
 
 ## Experience
 
-- **Machine Learning Engineer, Truveta** — Seattle, WA — Jun 2025–Present. SageMaker Pipelines/Endpoints + CloudWatch for real-time risk scoring on de-identified EHR data; TensorFlow disease-progression models; Bayesian Optimization + Monte Carlo uncertainty quantification; GA + RL hybrid optimization (+22% outcome-prediction accuracy); BERT embeddings over clinical text; −35% training/data-prep time via SQL and pipeline optimization.
-- **Machine Learning Engineer, Capgemini** — India — Apr 2019–Nov 2022. Credit default / delinquency / fraud models (Scikit-learn, XGBoost, LightGBM) embedded in origination, collections and fraud triage (−25% loan decision cycle time); automated ETL (−40% data-prep time); Azure Databricks distributed training; Airflow orchestration; drift/accuracy monitoring (−20% false positives).
+- **Machine Learning Engineer, Truveta**, Seattle, WA, Jun 2025 - Present. SageMaker Pipelines/Endpoints + CloudWatch for real-time risk scoring on de-identified EHR data; TensorFlow disease-progression models; Bayesian Optimization + Monte Carlo uncertainty quantification; GA + RL hybrid optimization (+22% outcome-prediction accuracy); BERT embeddings over clinical text; −35% training/data-prep time via SQL and pipeline optimization.
+- **Machine Learning Engineer, Capgemini**, India, Apr 2019 - Nov 2022. Credit default / delinquency / fraud models (Scikit-learn, XGBoost, LightGBM) embedded in origination, collections and fraud triage (−25% loan decision cycle time); automated ETL (−40% data-prep time); Azure Databricks distributed training; Airflow orchestration; drift/accuracy monitoring (−20% false positives).
 
 ## Skills
 
