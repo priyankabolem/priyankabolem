@@ -3,7 +3,7 @@
 Production ML over high-volume, real-time data: predictive and probabilistic modeling, uncertainty estimation, large-scale feature engineering, and the MLOps to keep it running: low-latency inference on AWS SageMaker, distributed pipelines (Spark, Databricks, Airflow), and drift/decay monitoring in production.
 4+ years shipping models in healthcare (Truveta) and banking (Capgemini). MS Computer Science, Northwest Missouri State University (May 2025).
 
-**Currently:** open to ML Engineer / Applied Scientist / MLOps roles in Seattle or Remote US, open to relocation.
+**Currently:** Machine Learning Engineer at Truveta, Seattle: predictive and probabilistic models and ML pipelines over de-identified EHR data.
 
 **Portfolio:** [priyankabolem.github.io](https://priyankabolem.github.io) · **Resume:** [Download](https://priyankabolem.github.io/resume.pdf)
 
