@@ -20,8 +20,6 @@ Production ML over high-volume, real-time data: predictive and probabilistic mod
 | **Lending Club Loan Default Prediction** | ~38k loans; Logistic Regression / Decision Tree / Random Forest / XGBoost; ~84% accuracy, ROC-AUC > 0.85; class-imbalance handling and threshold tuning. | Scikit-learn · XGBoost · Pandas | [Repo](https://github.com/priyankabolem/lendingclub-loan-approval-ml) |
 | **NutriGuide+** | AI nutrition assistant: TensorFlow food-image classification plus nutrition insights, Streamlit UI. | TensorFlow · Streamlit | [Repo](https://github.com/priyankabolem/NutriGuide-Plus) |
 
-Also: AI Copilot for Medical Research / Clinical Trials: GenAI prototype (notebook).
-
 ## Experience
 
 - **Machine Learning Engineer, Truveta**, Seattle, WA, Jun 2025 - Present. SageMaker Pipelines/Endpoints + CloudWatch for real-time risk scoring on de-identified EHR data; TensorFlow disease-progression models; Bayesian Optimization + Monte Carlo uncertainty quantification; GA + RL hybrid optimization (+22% outcome-prediction accuracy); BERT embeddings over clinical text; −35% training/data-prep time via SQL and pipeline optimization.
