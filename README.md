@@ -19,7 +19,7 @@ Multi-step agent workflows, permission-aware retrieval, MCP tool integrations an
 
 ## Tech stack
 
-`Python` `SQL` · `Agentic workflows` `RAG` `MCP` `LLM evaluation` `LangChain` `LangGraph` · `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `Transformers` · `FastAPI` `Docker` `Kubernetes` `MLflow` `DVC` `Evidently` `GitHub Actions` · `AWS SageMaker` `Lambda` `S3` `CloudWatch` · `GCP Vertex AI` `BigQuery` `Cloud Run` · `Neo4j`
+`Python` `SQL` · `Agentic workflows` `RAG` `MCP` `LLM evaluation` `LangChain` `LangGraph` · `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `LightGBM` `Transformers` · `FastAPI` `Docker` `Kubernetes` `MLflow` `DVC` `Evidently` `GitHub Actions` · `AWS SageMaker` `Lambda` `S3` `CloudWatch` · `GCP Vertex AI` `BigQuery` `Cloud Run` · `Spark` `Airflow` `Databricks` `Neo4j` · `Power BI` `Tableau`
 
 ## Experience
 
