@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer, Greater Seattle, WA.** I build agentic AI and RAG systems that run in production, and the MLOps on AWS and GCP that keeps them running.
 
-4.5+ years shipping ML: multi-step agent workflows, permission-aware retrieval, MCP tool integrations and LLM evaluation pipelines today; deep learning on healthcare data and credit risk models on high-volume banking data before that.
+Multi-step agent workflows, permission-aware retrieval, MCP tool integrations and LLM evaluation pipelines today, built on deep learning and prediction work over de-identified healthcare data.
 
 **[Portfolio](https://priyankabolem.github.io)** · [priyankabolem93@gmail.com](mailto:priyankabolem93@gmail.com)
 
@@ -19,12 +19,11 @@
 
 ## Tech stack
 
-`Python` `SQL` · `Agentic workflows` `RAG` `MCP` `LLM evaluation` `LangChain` `LangGraph` · `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `Transformers` · `FastAPI` `Docker` `Kubernetes` `MLflow` `DVC` `Evidently` `GitHub Actions` · `AWS SageMaker` `Lambda` `S3` `CloudWatch` · `GCP Vertex AI` `BigQuery` `Cloud Run` · `Spark` `Airflow` `Databricks` `Neo4j`
+`Python` `SQL` · `Agentic workflows` `RAG` `MCP` `LLM evaluation` `LangChain` `LangGraph` · `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `Transformers` · `FastAPI` `Docker` `Kubernetes` `MLflow` `DVC` `Evidently` `GitHub Actions` · `AWS SageMaker` `Lambda` `S3` `CloudWatch` · `GCP Vertex AI` `BigQuery` `Cloud Run` · `Neo4j`
 
 ## Experience
 
 - **Machine Learning Engineer, Adisys Corporation**, Greater Seattle, WA, Jun 2025 to present. Agentic AI assistant for an enterprise collaboration software client: multi-step agent workflows, RAG with permission-aware retrieval, MCP tool integrations, LLM evaluation pipelines in CI, Python and FastAPI services. Earlier, for a healthcare data platform client: chronic disease progression prediction on de-identified EHR data with TensorFlow, BERT embeddings and SageMaker Pipelines/Endpoints (+22% prediction accuracy, -35% data-prep time).
-- **Machine Learning Engineer, Capgemini**, India, Apr 2019 to Nov 2022. Credit default, delinquency and fraud models (Scikit-learn, XGBoost, LightGBM) embedded in origination, collections and fraud triage (-25% loan decision cycle time), automated ETL (-40% data-prep time), distributed training on Azure Databricks, Airflow retraining, drift monitoring (-20% false positives).
 
 MS in Computer Science, Northwest Missouri State University, May 2025.
 
